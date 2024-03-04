@@ -1,24 +1,24 @@
 [submodule "feather"]
 	path = feather
-	url = https://github.com/feathericons/feather
+	url = https://github.com/feathericons/feather.git
 [submodule "octicons"]
 	path = octicons
 	url = https://github.com/primer/octicons.git
 [submodule "Font-Awesome"]
 	path = Font-Awesome
-	url = git@github.com:FortAwesome/Font-Awesome.git
+	url = https://github.com/FortAwesome/Font-Awesome.git
 [submodule "bootstrap"]
 	path = bootstrap
-	url = https://github.com/twbs/icons
+	url = https://github.com/twbs/icons.git
 [submodule "lipis-flag-icons"]
 	path = lipis-flag-icons
-	url = git@github.com:lipis/flag-icons.git
+	url = https://github.com/lipis/flag-icons.git
 [submodule "lucide"]
 	path = lucide
-	url = https://github.com/lucide-icons/lucide
+	url = https://github.com/lucide-icons/lucide.git
 [submodule "heroicons"]
 	path = heroicons
-	url = https://github.com/tailwindlabs/heroicons
+	url = https://github.com/tailwindlabs/heroicons.git
 [submodule "simple-icons"]
 	path = simple-icons
-	url = https://github.com/simple-icons/simple-icons
+	url = https://github.com/simple-icons/simple-icons.git
